@@ -9,7 +9,7 @@
     "express": "4.16.3",
     "pg": "8.0.3",
     "cors": "2.8.4",
-    "nodemon": "1.18.3",
+    "nodemon": "1.19.4",
     "body-parser": "*"
   },
   "scripts": {
