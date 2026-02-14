@@ -6,7 +6,7 @@
   "author": "Laszlo Leber (Codeching)",
   "license": "ISC",
   "dependencies": {
-    "express": "4.16.3",
+    "express": "4.22.0",
     "pg": "8.0.3",
     "cors": "2.8.4",
     "nodemon": "1.18.3",
